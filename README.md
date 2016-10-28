@@ -12,7 +12,7 @@ edge-node-manager compatible firmware for the micro:bit
 ### Flash firmware
  - Compile the firmware
  - Connect the micro:bit to your computer using the USB cable
- - Drag 'n' drop the compiled firmware from `/build/bbc-microbit-classic-gcc/source/micro-bit-combined.hex` to the mounted micro:bit
+ - Drag 'n' drop the compiled firmware from `build/bbc-microbit-classic-gcc/source/micro-bit-combined.hex` to the mounted micro:bit
 
 ### Getting started
  - Note: Take a look at the [edge-node-manager](https://github.com/resin-io/edge-node-manager) if you havn't already done so
